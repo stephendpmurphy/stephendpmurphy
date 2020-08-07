@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Javascript and full-stack web development
 - 👯 I’m looking to collaborate on open source hardware and tools
 
-I sell my projects on Tindie. Consider stopping by my store and purchasing something to support me! <br />
-<a href="https://www.tindie.com/stores/stephenmurphy/?ref=offsite_badges&utm_source=sellers_stephenmurphy&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
+[I sell my projects on Tindie](https://www.tindie.com/stores/stephenmurphy/). Consider stopping by my store and purchasing something to support me!
 
 
 ### Connect with me:
