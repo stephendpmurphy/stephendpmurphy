@@ -1,6 +1,7 @@
 ### Hi there, I'm Stephen 👋
 
 ### About me
+- :computer: I'm an Embedded Software Engineer at Glassboard - Helping others bring their ideas to life!
 - 🔭 I’m currently working on a new project called [tiny-oled](https://github.com/stephendpmurphy/tiny-oled.firmware)! It's a chance to push my abilities and learn new concepts in Electrical Hardware Design, Embedded Firmware Development, DevOps, and more!
 - 🌱 I’m currently learning Javascript and full-stack web development
 - 👯 I’m looking to collaborate on open source hardware and tools
