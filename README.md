@@ -14,4 +14,5 @@
 <br />
 
 ### My Github Stats:
-<img align="left" alt="Stephen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stephendpmurphy&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=stephendpmurphy&show_icons=true&theme=nord" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephendpmurphy&layout=compact&theme=nord" alt="languages" height="165">
+
