@@ -16,3 +16,5 @@
 ### My Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=stephendpmurphy&show_icons=true&theme=nord" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephendpmurphy&layout=compact&theme=nord" alt="languages" height="165">
 
+### Currently listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murph129&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
